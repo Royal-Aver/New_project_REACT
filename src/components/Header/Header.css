@@ -1,0 +1,7 @@
+.header {
+  background-color: #D79922;
+}
+
+.header__container {
+  display: flex;
+}
